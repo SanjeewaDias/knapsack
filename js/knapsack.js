@@ -1,9 +1,9 @@
 var items = {
   item1: {
     Id: "milk",
-    Weight: 6,
+    Weight: parseInt(Math.random()*10+4),
     Value: 30,
-    DefaultCopies: 5
+    DefaultCopies: 10	
   },
   item2: {
     Id: "map",
