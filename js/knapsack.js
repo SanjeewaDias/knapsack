@@ -24,16 +24,12 @@ var items = {
     DefaultCopies: 6
   },
   item5: {
-    Id: "minion",
+    Id: "laptop",
     Weight: 5,
     Value: 24,
     DefaultCopies: 11
-  },
-  item6: {
-	Id: "laptop",
-    Weight: 10,
-    Value: 30,
-    DefaultCopies: 5
+  }
+  
 }
 
 
