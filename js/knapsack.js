@@ -2,7 +2,7 @@ var items = {
   item1: {
     Id: "milk",
     Weight: parseInt(Math.random()*10),
-    Value: 30,
+    Value: 45,
     DefaultCopies: 12
   },
   item2: {
