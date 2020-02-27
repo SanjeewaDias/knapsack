@@ -33,7 +33,7 @@
 
 	<div class="full-width-container">
 		<div class="row">
-			<h1 style="margin-top: 20px">අවශ්‍ය දේ තෝරාගන්න</h1>
+			<h1 style="margin-top: 20px">Pack your Knapsack!</h1>
 			<hr>
 			<p>Drag items from the right into your backpack. Your goal is to maximize the total value, whilst not exceeding the maximal weight of your backpack.</p>
 		</div>
