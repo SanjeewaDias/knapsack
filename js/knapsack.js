@@ -3,7 +3,7 @@ var items = {
     Id: "milk",
     Weight: 6,
     Value: 30,
-    DefaultCopies: 12
+    DefaultCopies: 5
   },
   item2: {
     Id: "map",
